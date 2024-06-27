@@ -1,0 +1,4 @@
+dns:
+  port: 53
+  ttl: 600
+  suffix: "clipd."
