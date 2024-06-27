@@ -1,4 +1,4 @@
-module github.com/sparrowhe/dockerdns
+module github.com/Clipteam/dockerdns
 
 go 1.22.4
 

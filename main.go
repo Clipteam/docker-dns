@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/sparrowhe/dockerdns/common"
-	"github.com/sparrowhe/dockerdns/dnsserver"
+	"github.com/Clipteam/dockerdns/common"
+	"github.com/Clipteam/dockerdns/dnsserver"
 )
 
 func main() {

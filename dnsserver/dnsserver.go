@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/Clipteam/dockerdns/common"
 	"github.com/miekg/dns"
-	"github.com/sparrowhe/dockerdns/common"
 )
 
 func HandleDnsRequest(w dns.ResponseWriter, r *dns.Msg) {

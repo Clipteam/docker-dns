@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
+	"github.com/Clipteam/dockerdns/common"
 	"github.com/docker/docker/api/types/container"
 	"github.com/docker/docker/client"
-	"github.com/sparrowhe/dockerdns/common"
 )
 
 func PickIpAddr(name string) (string, error) {
